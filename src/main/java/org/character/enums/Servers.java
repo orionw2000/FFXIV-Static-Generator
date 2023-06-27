@@ -1,0 +1,32 @@
+package org.character.enums;
+
+public enum Servers {
+    ADAMANTOISE,
+    CACTUAR,
+    FAERIE,
+    GILGAMESH,
+    JENOVA,
+    MIDGARDSOMIR,
+    SARGATANAS,
+    SIREN,
+    BEHEMOTH,
+    EXCALIBUR,
+    EXODUS,
+    FAMFRIT,
+    HYPERION,
+    LAMIA,
+    LEVIATHAN,
+    ULTROS,
+    BALMUNG,
+    BRYNHILDR,
+    COEURL,
+    DIABOLOS,
+    GOBLIN,
+    MALBORO,
+    MATEUS,
+    ZALERA,
+    HALICARNASSUS,
+    MADUIN,
+    MARILITH,
+    SERAPH
+}
